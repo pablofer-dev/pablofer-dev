@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-alonso-fern%c3%a1ndez-l%c3%b3pez-883b60174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-alonso-fern%c3%a1ndez-l%c3%b3pez-883b60174/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-alonso-fern%C3%A1ndez-l%C3%B3pez-883b60174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-alonso-fern%c3%a1ndez-l%c3%b3pez-883b60174/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
