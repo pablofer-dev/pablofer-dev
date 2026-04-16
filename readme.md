@@ -9,7 +9,7 @@
 
 ### About
 
-Backend developer focused on building and maintaining enterprise software for the insurance brokerage sector. Daily work revolves around multi-company integrations (SOAP/REST), policy issuance flows, premium calculation engines, document management systems and commission reporting.
+Backend developer focused on building and maintaining enterprise software for the insurance brokerage sector, plus side projects ranging from booking platforms to software development studios. Daily work revolves around multi-company integrations (SOAP/REST), policy issuance flows, premium calculation engines, document management systems and commission reporting.
 
 - Currently working on: Laravel-based brokerage platform integrating with Reale, Allianz, FIATC, Santalucía, Pelayo, Occident, Plus Ultra and others.
 - Learning: React Native, advanced Laravel architecture, SOAP/WS-Security hardening.
@@ -27,6 +27,15 @@ Backend developer focused on building and maintaining enterprise software for th
 
 ---
 
+### Portfolio
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **AppsForge** | Software development studio — custom web and mobile solutions. | [appsforge.es](https://appsforge.es) |
+| **Reserfy** | Online booking and reservation management platform. | [reserfy.es](https://reserfy.es) |
+
+---
+
 ### Project experience
 
 **Insurance brokerage platform (Laravel 10 / PHP 8.1)**
@@ -37,6 +46,10 @@ Backend developer focused on building and maintaining enterprise software for th
 - PDF/Excel report generation (DomPDF, maatwebsite/excel).
 - JWT authentication, role-based permissions, audit trails.
 - Commission liquidation, blocked receipts reports, business tracking.
+
+**Side projects**
+- **AppsForge** — development studio site, project showcase, contact flows.
+- **Reserfy** — reservation system: availability calendar, booking management, client portal.
 
 **Other**
 - Node.js REST services, Python automation scripts, Java backend work.
