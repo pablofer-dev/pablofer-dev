@@ -1,25 +1,85 @@
-<h1 align="center">Hi 👋, I'm Pablo Fernández</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablofer-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pablofer-dev" /> </p>
+<h1 align="center">Pablo Fernández</h1>
+<h3 align="center">Backend Developer — Spain</h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Python, Java, Node.js**
-
-- 📫 How to reach me **pablofernandezlopez766@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pablo-alonso-fern%C3%A1ndez-l%C3%B3pez-883b60174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-alonso-fern%c3%a1ndez-l%c3%b3pez-883b60174/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pablofer-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pablofer-dev" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<div align="center">
-    <a href="https://github.com/pablofer-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablofer-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofer-dev&layout=compact&theme=tokyonight"/>
-  </div>
+---
 
+### About
+
+Backend developer focused on building and maintaining enterprise software for the insurance brokerage sector. Daily work revolves around multi-company integrations (SOAP/REST), policy issuance flows, premium calculation engines, document management systems and commission reporting.
+
+- Currently working on: Laravel-based brokerage platform integrating with Reale, Allianz, FIATC, Santalucía, Pelayo, Occident, Plus Ultra and others.
+- Learning: React Native, advanced Laravel architecture, SOAP/WS-Security hardening.
+- Reach me: **pablofernandezlopez766@gmail.com**
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pablo-alonso-fern%C3%A1ndez-l%C3%B3pez-883b60174/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### Project experience
+
+**Insurance brokerage platform (Laravel 10 / PHP 8.1)**
+- Multi-company tariff engine (Hogar, Autos, Vida, Decesos, Salud, Expatriados).
+- SOAP integrations with WS-Security, XML signing and client certificates.
+- Document management (Gestor Documental) for Reale and Allianz.
+- EIAC file generation and parsing for Pelayo, Occident and others.
+- PDF/Excel report generation (DomPDF, maatwebsite/excel).
+- JWT authentication, role-based permissions, audit trails.
+- Commission liquidation, blocked receipts reports, business tracking.
+
+**Other**
+- Node.js REST services, Python automation scripts, Java backend work.
+- Oracle and MySQL database design and tuning.
+
+---
+
+### Stack
+
+**Backend**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Blade](https://img.shields.io/badge/-Blade-F05340?style=flat&logo=laravel&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Integrations & tools**  
+![SOAP](https://img.shields.io/badge/-SOAP-005A9C?style=flat)
+![REST](https://img.shields.io/badge/-REST_API-02569B?style=flat)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### GitHub stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablofer-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofer-dev&layout=compact&theme=tokyonight" />
+</div>
