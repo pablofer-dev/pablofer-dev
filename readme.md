@@ -31,7 +31,7 @@ Backend developer focused on building and maintaining enterprise software for th
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **AppsForge** | Software development studio — custom web and mobile solutions. | [appsforge.es](https://appsforge.es) |
+| **AppForge** | Software development studio — custom web and mobile solutions. | [appforge.es](https://appforge.es) |
 | **Reserfy** | Online booking and reservation management platform. | [reserfy.es](https://reserfy.es) |
 
 ---
@@ -41,14 +41,14 @@ Backend developer focused on building and maintaining enterprise software for th
 **Insurance brokerage platform (Laravel 10 / PHP 8.1)**
 - Multi-company tariff engine (Hogar, Autos, Vida, Decesos, Salud, Expatriados).
 - SOAP integrations with WS-Security, XML signing and client certificates.
-- Document management (Gestor Documental) for Reale and Allianz.
-- EIAC file generation and parsing for Pelayo, Occident and others.
+- Document management.
+- EIAC file generation and parsing .
 - PDF/Excel report generation (DomPDF, maatwebsite/excel).
-- JWT authentication, role-based permissions, audit trails.
+- JWT authentication.
 - Commission liquidation, blocked receipts reports, business tracking.
 
 **Side projects**
-- **AppsForge** — development studio site, project showcase, contact flows.
+- **AppForge** — development studio site, project showcase, contact flows.
 - **Reserfy** — reservation system: availability calendar, booking management, client portal.
 
 **Other**
